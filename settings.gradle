@@ -1,0 +1,2 @@
+rootProject.name='trial application 1'
+include ':app'
